@@ -18,7 +18,7 @@ The request consists of:
 - parameters separated by `&`
 - API Key to be put in Headers
 
-![Example](Search.png)
+![Example](Search.PNG)
 
 ## Endpoints Description
 
