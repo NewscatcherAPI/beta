@@ -1,8 +1,9 @@
+# Authentication
 Newscatcher supports authentication with the API key. Once you received a key, you are allowed to make API requests.
 
 
 
-Endpoints
+# Endpoints
 
 There are 2 available endpoints  `/search` and `/all`:
 - Text search `/search` - the main method for searching through news articles based on parameters like __text__,  __date__ and/or __source__. This is a perfect tool when you want to look for articles on a specific subject on a single source or on worldwide news sources. 
@@ -18,7 +19,7 @@ The request consists of:
 
 
 
-Endpoints Description
+# Endpoints Description
 
 
 
@@ -112,7 +113,7 @@ __articles__:
 
 
 
-Examples
+# Examples
 
 
 
